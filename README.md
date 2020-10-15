@@ -30,12 +30,5 @@ visigoth.choose(function(target, errored, stats) {
 For more info on how to use it give a look to the folder [examples](examples) that contains
 few use cases explained step by step.
 
-# The Team
-- David Gonzalez david.gonzalez@nearform.com
-- Richard Rodger richard.rodger@nearform.com
-
-# Acknowledgements
-This project was sponsored by [nearForm](http://www.nearform.com)
-
 # License
 Licensed under [MIT](LICENSE)
